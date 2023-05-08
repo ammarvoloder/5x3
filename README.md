@@ -1,2 +1,3 @@
 # 5x3
-Platform comparison
+Implementation of 3 use cases (token, NFT, supply chain) on the platforms
+Algorand, Cardano, EOS, Ethereum, and Neo.
